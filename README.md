@@ -10,7 +10,7 @@ Sou **Desenvolvedor Web Full-Stack**, entusiasta por criar automações, aplica�
 - 🌱 Aprendendo sobre **melhores práticas de arquitetura e deploy**.
 - 👯 Buscando colaborar em projetos de **full-stack**.
 - 🤔 Posso ajudar com **front-end, back-end, APIs, banco de dados e Git**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ericviana) | [Email](mailto:seuemail@example.com)
+- 📫 Como me encontrar: [LinkedIn](:www.linkedin.com/in/éric-viana-0b7a74328) | [Email](mailto:ericviana445@gmail.com)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,8 +40,4 @@ Sou **Desenvolvedor Web Full-Stack**, entusiasta por criar automações, aplica�
 </div>
 
 ##
-
-### 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/ericViana445/ericViana445/output/dist/snake.svg" alt="Snake animation" />
-
 <br clear="both">
