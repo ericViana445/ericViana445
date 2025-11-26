@@ -44,6 +44,7 @@ Sou **Desenvolvedor Web Full-Stack**, entusiasta por criar automações, aplica�
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/ericViana445/ericViana445/output/snake.svg" alt="Snake animation" />
 ###
 
 <br clear="both">
