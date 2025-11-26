@@ -10,7 +10,7 @@ Sou **Desenvolvedor Web Full-Stack**, entusiasta por criar automações, aplica�
 - 🌱 Aprendendo sobre **melhores práticas de arquitetura e deploy**.
 - 👯 Buscando colaborar em projetos de **full-stack**.
 - 🤔 Posso ajudar com **front-end, back-end, APIs, banco de dados e Git**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/%C3%A9ric-viana-0b7a74328) | [Email](mailto:ericviana445@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/%C3%A9ric-viana-0b7a74328)
 
 
 <div style="display: inline_block"><br>
