@@ -34,3 +34,9 @@ Sou **Desenvolvedor Web Full-Stack**, entusiasta por criar automações, aplica�
 
 ##
 <br clear="both">
+
+## 🐍 Snake eating my contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ericViana445/ericViana445/output/github-contribution-grid-snake-dark.svg" />
+</p>
