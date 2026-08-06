@@ -24,13 +24,3 @@ Sou **Desenvolvedor Web Full-Stack**, entusiasta por criar automações, aplica�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-##
-
-### 🔥 My Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ericViana445&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-##
-<br clear="both">
